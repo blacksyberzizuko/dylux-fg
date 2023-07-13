@@ -3,13 +3,13 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['59172945992', 'FG98', true],
-  ['5492622271736'], 
-  ['5492622271736'] 
+  ['94770378874', '_BLACK_SYBER-ZIZUKO_', true],
+  ['94770378874'], 
+  ['94770378874'] 
 ] //Numeros de owner 
 
-global.mods = ['573125484672'] 
-global.prems = ['50489079501', '5219631769130', '573125484672']
+global.mods = ['94770378874'] 
+global.prems = ['94770378874', '94770378874', '94770378874']
 global.APIs = { // API Prefix
   // name: 'https://website'
   xteam: 'https://api.xteam.xyz', 
@@ -25,16 +25,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'DyLux┃ᴮᴼᵀ' 
-global.author = '@fg98' 
-global.fgig = '▢ Sígueme en Instagram\nhttps://www.instagram.com/fg98_ff\n' 
-global.dygp = 'https://chat.whatsapp.com/IO9jmpI72ejHiN4unRZleU'
-global.fgsc = 'https://github.com/FG98F/dylux-fg' 
-global.fgyt = 'https://youtube.com/fg98f'
-global.fgpyp = 'https://paypal.me/fg98f'
-global.fglog = 'https://i.imgur.com/Owmb93c.png' 
+global.packname = '➠❲📍QUEEN-ZIZU MD📍❳➠' 
+global.author = 'M,R ZIZUKO' 
+global.fgig = '📍 Sígueme en Instagram\nhttps://www.instagram.com\n' 
+global.dygp = 'https://chat.whatsapp.com/FYPYqeucaxr4qwME8G6Tot'
+global.fgsc = 'https://github.com' 
+global.dygp1 = 'https://chat.whatsapp.com/FYPYqeucaxr4qwME8G6Tot'
+global.dygp2 = 'https://chat.whatsapp.com/FYPYqeucaxr4qwME8G6Tot'
+global.dgp3 = 'https://i.imgur.com/Owmb93c.png' 
 
-global.wait = '*⌛ _Cargando..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _please wait ..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
